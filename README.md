@@ -1,0 +1,3 @@
+# log4js
+
+根据K8S环境自定义的一个log4js生成JS的方法，统一使用console输出json，同时保留自己定义log的能力
